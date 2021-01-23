@@ -1,0 +1,1 @@
+# symfony-reflection-extractor-bug
